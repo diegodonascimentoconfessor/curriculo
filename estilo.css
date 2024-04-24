@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+}
+
+#texto-1 {
+    border: 5px solid  red;
+    width: 50%;
+    height: 60px;
+    padding-left: 20px;
+    margin-bottom: 32px;
+}
+
+#texto-2{
+    border: 5px solid  yellow;
+    width: 50%;
+    height: 60px;
+    padding-left: 20px;
+    margin-bottom: 32px;
+}
